@@ -1,0 +1,5 @@
+
+# ignore devel and build
+catkin_ws/devel/
+catkin_ws/build/
+catkin_ws/src/pgm_map_creator/
