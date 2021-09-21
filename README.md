@@ -4,7 +4,7 @@ The "Map My World" project's purpose is to put into pratice the lessons learned 
 
 [//]: # (Image References)
 
-[image1]: ./images/Result.png "Result"
+[image1]: ./images/Result.PNG "Result"
 
 ## Prerequisites
 
